@@ -4,7 +4,7 @@
 
 This documentation provides an overview of a Vue.js project for a bandwidth calculator, including setup requirements, project structure, code explanations, and recommendations for improvements.
 
-**Link**
+**Documentation Link**
 https://itu-docs.gitbook.io/bandwidth-calculator-tool
 
 **Requirements**
